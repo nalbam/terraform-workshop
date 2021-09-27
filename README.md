@@ -1,6 +1,6 @@
 # terraform-workshop
 
-* <https://mzcdev.github.io/terraform-workshop/>
+* <https://nalbam.github.io/terraform-workshop/>
 
 ## prepare
 

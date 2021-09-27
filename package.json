@@ -1,13 +1,13 @@
 {
   "name": "terraform-workshop",
   "version": "1.0.0",
-  "homepage": "https://github.com/mzcdev/terraform-workshop",
+  "homepage": "https://github.com/nalbam/terraform-workshop",
   "bugs": {
-    "url": "https://github.com/mzcdev/terraform-workshop/issues"
+    "url": "https://github.com/nalbam/terraform-workshop/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mzcdev/terraform-workshop.git"
+    "url": "git+https://github.com/nalbam/terraform-workshop.git"
   },
   "scripts": {
     "theme": "git submodule init && git submodule update",
